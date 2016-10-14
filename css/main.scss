@@ -14,6 +14,20 @@ $icon-size:        15px;
 $on-palm:          768px;
 
 
+//My Customisation
+body.hack {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.5em;
+  line-height: 1.4;
+}
+.hack h1 {
+  font-size: 1.2em;
+}
+.hack h2 {
+  font-size: 1em;
+}
+
+
 
 // Use media queries like this:
 // @include media-query($on-palm) {
