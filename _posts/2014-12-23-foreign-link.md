@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Testing bash applications
+title: External link
 date: 2014-01-15 00:18:23
 author: sobolevn
 categories: bash
